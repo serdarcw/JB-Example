@@ -4,6 +4,6 @@
   <h3> Stage Deployment Again </h3>
   <h3> Good luck to everbody.... </h3>
   <h3> You are doing good work .... </h3>
-  <h3> Good Job Serdar Ne güzel iş yaptın sen yaaa.... </h3>
+  <h3> Good Job Serdar Ne guzel is yaptin sen yaaa.... </h3>
 </body>
 </html>
